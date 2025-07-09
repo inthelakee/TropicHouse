@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode and PyCharm configs
+.vscode/
+.idea/
+
+# CSV/ZIP files (optional, если не хочешь заливать образцы)
+*.csv
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Custom
+.env
+/tmp/
+output/
